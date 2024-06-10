@@ -1,0 +1,9 @@
+/* src/App.css */
+.container {
+    margin-top: 20px;
+}
+
+/* src/components/Reviews.css */
+.card {
+    text-align: center;
+}
